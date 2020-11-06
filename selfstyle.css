@@ -1,0 +1,29 @@
+body{
+  background-color: #060930;
+}
+h1{
+  color:#fff48f;
+  font-size: 8rem;
+  margin: 1% auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+}
+.container{
+  text-align: center;
+}
+p{
+  font-size: 4rem;
+  color: #ffc7c7;
+  font-family: 'Architects Daughter', cursive;
+  text-align: center;
+}
+.dice{
+  display: inline-block;
+  margin:3rem;
+  text-align: center;
+}
+
+.cornerimg{
+  height: 5%;
+  width: 5%;
+  color: #dbf6e9;
+}
